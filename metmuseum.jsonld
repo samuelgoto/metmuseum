@@ -1,0 +1,1134 @@
+{
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "DatasetBundle",
+  "@id": "https://code.sgo.to/metmuseum",
+  "url": "https://code.sgo.to/metmuseum",
+  "name": "Images of artwork from the metropolitan museum of art",
+  "description": "These images were created with google's BigQuery",
+  "datasets": [
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/335370",
+      "url": "https://code.sgo.to/metmuseum/335370.html",
+      "name": "Twin Stars",
+      "description": "Images of \"Twin Stars\" by \"Luis_Falero/\" from 1851–96 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/58.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DN58.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP800314.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP800314.jpg",
+        "http://i.i.ua/photo/images/pic/1/6/4550661_333a634f.jpg",
+        "http://3.bp.blogspot.com/-6D-2k11fJUA/Um0AvXykVEI/AAAAAAABIQ8/waGA_ikO-iY/s1600/4550661_333a634f.jpg",
+        "https://s-media-cache-ak0.pinimg.com/originals/c1/50/e6/c150e6eb0c8c70a4f24a0d457fa21160.jpg",
+        "https://s-media-cache-ak0.pinimg.com/736x/c1/50/e6/c150e6eb0c8c70a4f24a0d457fa21160.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/25813",
+      "url": "https://code.sgo.to/metmuseum/25813.html",
+      "name": "Sword Guard (Tsuba)",
+      "description": "Images of \"Sword Guard (Tsuba)\" by \"\" from 18th century–early 19th century from the Arms_and_Armor of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/aa/original/379.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/06.300_001AA2016.jpg",
+        "http://images.metmuseum.org/CRDImages/aa/original/06.300_002AA2016.jpg",
+        "https://s-media-cache-ak0.pinimg.com/736x/a6/a1/79/a6a1792d704df6db3262f3d2beb41592.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/22096",
+      "url": "https://code.sgo.to/metmuseum/22096.html",
+      "name": "War Hat (Jingasa)",
+      "description": "Images of \"War Hat (Jingasa)\" by \"\" from probably 18th century from the Arms_and_Armor of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/aa/original/866.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/14579",
+      "url": "https://code.sgo.to/metmuseum/14579.html",
+      "name": "John Paul Jones",
+      "description": "Images of \"John Paul Jones\" by \"Victor_David_Brenner/\" from 1906 from the American_Paintings_and_Sculpture of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ap/original/791.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_1-001.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/14583",
+      "url": "https://code.sgo.to/metmuseum/14583.html",
+      "name": "John Paul Jones",
+      "description": "Images of \"John Paul Jones\" by \"Victor_David_Brenner/\" from 1906 from the American_Paintings_and_Sculpture of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ap/original/791.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-001.jpg",
+        "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-002.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/47333",
+      "url": "https://code.sgo.to/metmuseum/47333.html",
+      "name": "Teapot",
+      "description": "Images of \"Teapot\" by \"\" from 18th century from the Asian_Art of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/as/original/858.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/45433",
+      "url": "https://code.sgo.to/metmuseum/45433.html",
+      "name": "Teabowl",
+      "description": "Images of \"Teabowl\" by \"Hogen_Doshun/\" from null from the Asian_Art of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/as/original/859.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/62869",
+      "url": "https://code.sgo.to/metmuseum/62869.html",
+      "name": "Teabowl",
+      "description": "Images of \"Teabowl\" by \"Yosobei_II/\" from ca. 1830 from the Asian_Art of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/as/original/862.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/45953",
+      "url": "https://code.sgo.to/metmuseum/45953.html",
+      "name": "Jar",
+      "description": "Images of \"Jar\" by \"\" from 18th century from the Asian_Art of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/as/original/865.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/79081",
+      "url": "https://code.sgo.to/metmuseum/79081.html",
+      "name": "Collar",
+      "description": "Images of \"Collar\" by \"\" from ca. 1825 from the Costume_Institute of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ci/original/623.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/79077",
+      "url": "https://code.sgo.to/metmuseum/79077.html",
+      "name": "Collar",
+      "description": "Images of \"Collar\" by \"\" from second quarter 19th century from the Costume_Institute of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ci/original/677.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/06.689.15.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/78932",
+      "url": "https://code.sgo.to/metmuseum/78932.html",
+      "name": "Collar",
+      "description": "Images of \"Collar\" by \"\" from first quarter 19th century from the Costume_Institute of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ci/original/678.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/79072",
+      "url": "https://code.sgo.to/metmuseum/79072.html",
+      "name": "Cap",
+      "description": "Images of \"Cap\" by \"\" from first quarter 18th century from the Costume_Institute of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ci/original/726.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/06.644_B.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/06.644_S.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/79084",
+      "url": "https://code.sgo.to/metmuseum/79084.html",
+      "name": "Shawl",
+      "description": "Images of \"Shawl\" by \"\" from ca. 1870 from the Costume_Institute of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/ci/original/913.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/06.692.7.jpg",
+        "http://images.metmuseum.org/CRDImages/ci/original/06.692.7_d.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/471794",
+      "url": "https://code.sgo.to/metmuseum/471794.html",
+      "name": "Dish",
+      "description": "Images of \"Dish\" by \"\" from 1430–1460 from the The_Cloisters of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/cl/original/CL8.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/341794",
+      "url": "https://code.sgo.to/metmuseum/341794.html",
+      "name": "Head of a Man",
+      "description": "Images of \"Head of a Man\" by \"Anonymous%2C_Italian%2C_Roman%2C_16th_century/\" from 16th century from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/570.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP820651.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/338802",
+      "url": "https://code.sgo.to/metmuseum/338802.html",
+      "name": "Head and Front Quarters of a Bull",
+      "description": "Images of \"Head and Front Quarters of a Bull\" by \"Battista_Franco/\" from 1510–61 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/571.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP809773.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/06.1042.12.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/348167",
+      "url": "https://code.sgo.to/metmuseum/348167.html",
+      "name": "River Scene",
+      "description": "Images of \"River Scene\" by \"Abraham_Rutgers/\" from 1645–99 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/575.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP800607.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/335125",
+      "url": "https://code.sgo.to/metmuseum/335125.html",
+      "name": "Village View",
+      "description": "Images of \"Village View\" by \"The_Master_of_the_Small_Landscapes%7CPieter_Bruegel_the_Elder%7CCornelis_Cort%7CPieter_Brueghel_the_Younger%7CJoos_van_Liere/\" from 1555–60 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/576.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DR421.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801442.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/335118",
+      "url": "https://code.sgo.to/metmuseum/335118.html",
+      "name": "Boats and Houses",
+      "description": "Images of \"Boats and Houses\" by \"Jan_Brueghel_the_Elder%7CJan_Brueghel_the_Elder/\" from 16th century from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/577.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP801177.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/348214",
+      "url": "https://code.sgo.to/metmuseum/348214.html",
+      "name": "Scene From A Comedy",
+      "description": "Images of \"Scene From A Comedy\" by \"Cornelis_Troost%7CJacob_Buys%7CCornelis_Troost/\" from 1740–1801 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/578.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP800693.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/335261",
+      "url": "https://code.sgo.to/metmuseum/335261.html",
+      "name": "Two Figures and a Dog",
+      "description": "Images of \"Two Figures and a Dog\" by \"Anonymous%2C_Dutch%2C_17th_century%7CAllart_van_Everdingen/\" from 17th century (?) from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/579.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP800864.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/339907",
+      "url": "https://code.sgo.to/metmuseum/339907.html",
+      "name": "Bacchanals",
+      "description": "Images of \"Bacchanals\" by \"Anonymous%2C_French%2C_18th_century/\" from 18th Century from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/585.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/06.1042.13.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP812522.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP812523.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/340535",
+      "url": "https://code.sgo.to/metmuseum/340535.html",
+      "name": "Venus Leaving the Bath, and Cupid",
+      "description": "Images of \"Venus Leaving the Bath, and Cupid\" by \"Anonymous%2C_Italian%2C_Roman-Bolognese%2C_17th_century%7CMarcantonio_Raimondi%7CCarracci_School/\" from 17th century from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/880.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP811348.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/06.1051.13.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/340177",
+      "url": "https://code.sgo.to/metmuseum/340177.html",
+      "name": "Tobias and the Angel",
+      "description": "Images of \"Tobias and the Angel\" by \"Anonymous%2C_Italian%2C_Roman-Bolognese%2C_17th_century/\" from 17th century from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/925.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DP802542.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/335114",
+      "url": "https://code.sgo.to/metmuseum/335114.html",
+      "name": "Seated Female Nude (recto); Standing Male Nude (verso)",
+      "description": "Images of \"Seated Female Nude (recto); Standing Male Nude (verso)\" by \"Pierre_Paul_Prud'hon/\" from probably between 1810–20 from the Drawings_and_Prints of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/dp/original/PR2.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT10963.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT10964.jpg",
+        "https://s-media-cache-ak0.pinimg.com/originals/fe/47/be/fe47be30383ab93f69f207b9fe23fe29.jpg",
+        "https://s-media-cache-ak0.pinimg.com/originals/4a/69/12/4a69125b1313d9372e83f966596bb3d5.jpg",
+        "http://images.metmuseum.org/CRDImages/dp/original/DT10963.jpg",
+        "http://3.bp.blogspot.com/-UO48dxFg5F0/Vbg1C0LMxuI/AAAAAAABOE4/mQUK-lOgiuw/s1600/Prud%2527hon-Pierre-Paul-Seated-female-nude-c1810-20-Met.jpg",
+        "https://s-media-cache-ak0.pinimg.com/originals/31/fa/83/31fa83d27f144c01ac234ed8ed6ea3f4.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/188969",
+      "url": "https://code.sgo.to/metmuseum/188969.html",
+      "name": "Saint Catherine and Saint John with a donor and his wife",
+      "description": "Images of \"Saint Catherine and Saint John with a donor and his wife\" by \"\" from ca. 1530 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/387.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/217036.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189149",
+      "url": "https://code.sgo.to/metmuseum/189149.html",
+      "name": "Comedy and Tragedy",
+      "description": "Images of \"Comedy and Tragedy\" by \"Sir_Alfred_Gilbert/\" from 1892 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/423.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212990",
+      "url": "https://code.sgo.to/metmuseum/212990.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from 1720–40 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/429.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212995",
+      "url": "https://code.sgo.to/metmuseum/212995.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from 1705–15 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/430.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212994",
+      "url": "https://code.sgo.to/metmuseum/212994.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/432.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/135603.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212991",
+      "url": "https://code.sgo.to/metmuseum/212991.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/433.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212996",
+      "url": "https://code.sgo.to/metmuseum/212996.html",
+      "name": "Length of doubled-sided velvet and plush silk",
+      "description": "Images of \"Length of doubled-sided velvet and plush silk\" by \"\" from 18th century (?) from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/434.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/60419.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189156",
+      "url": "https://code.sgo.to/metmuseum/189156.html",
+      "name": "Cradle",
+      "description": "Images of \"Cradle\" by \"\" from ca. 1650–80 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/452.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189048",
+      "url": "https://code.sgo.to/metmuseum/189048.html",
+      "name": "Cuff link",
+      "description": "Images of \"Cuff link\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/59147.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189047",
+      "url": "https://code.sgo.to/metmuseum/189047.html",
+      "name": "Cuff link",
+      "description": "Images of \"Cuff link\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/59147.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189051",
+      "url": "https://code.sgo.to/metmuseum/189051.html",
+      "name": "Brooch",
+      "description": "Images of \"Brooch\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/59150.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189052",
+      "url": "https://code.sgo.to/metmuseum/189052.html",
+      "name": "Earring",
+      "description": "Images of \"Earring\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/59151.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189053",
+      "url": "https://code.sgo.to/metmuseum/189053.html",
+      "name": "Earring",
+      "description": "Images of \"Earring\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/59151.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189155",
+      "url": "https://code.sgo.to/metmuseum/189155.html",
+      "name": "Small chest",
+      "description": "Images of \"Small chest\" by \"\" from early 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/504.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189109",
+      "url": "https://code.sgo.to/metmuseum/189109.html",
+      "name": "Salver",
+      "description": "Images of \"Salver\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/516.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/189136",
+      "url": "https://code.sgo.to/metmuseum/189136.html",
+      "name": "Plate",
+      "description": "Images of \"Plate\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/516.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/187864",
+      "url": "https://code.sgo.to/metmuseum/187864.html",
+      "name": "Dish",
+      "description": "Images of \"Dish\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/523.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/27727.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/187879",
+      "url": "https://code.sgo.to/metmuseum/187879.html",
+      "name": "Deep dish",
+      "description": "Images of \"Deep dish\" by \"\" from second quarter 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/523.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/SFES2463D.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/208830",
+      "url": "https://code.sgo.to/metmuseum/208830.html",
+      "name": "Wall tile",
+      "description": "Images of \"Wall tile\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/528.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/187841",
+      "url": "https://code.sgo.to/metmuseum/187841.html",
+      "name": "Wall tile",
+      "description": "Images of \"Wall tile\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/528.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/7995.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/187790",
+      "url": "https://code.sgo.to/metmuseum/187790.html",
+      "name": "Wall tile",
+      "description": "Images of \"Wall tile\" by \"\" from 17th–18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/528.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/7996.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/213011",
+      "url": "https://code.sgo.to/metmuseum/213011.html",
+      "name": "Flounce (two pieces)",
+      "description": "Images of \"Flounce (two pieces)\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/606.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/10048.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/70678.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/70679.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/213008",
+      "url": "https://code.sgo.to/metmuseum/213008.html",
+      "name": "Flounce",
+      "description": "Images of \"Flounce\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/608.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16506.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16506_06.1172.6.jpg",
+        "https://s-media-cache-ak0.pinimg.com/736x/d2/d3/b3/d2d3b37b173c5f04b5b7d859bc1cbe3e.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/213017",
+      "url": "https://code.sgo.to/metmuseum/213017.html",
+      "name": "Pointed lace",
+      "description": "Images of \"Pointed lace\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/610.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5512.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5512_06.1172.13.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/213006",
+      "url": "https://code.sgo.to/metmuseum/213006.html",
+      "name": "Scarf",
+      "description": "Images of \"Scarf\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/613.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5387.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212748",
+      "url": "https://code.sgo.to/metmuseum/212748.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from ca. 1800 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/618.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212761",
+      "url": "https://code.sgo.to/metmuseum/212761.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from ca. 1725 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/620.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212869",
+      "url": "https://code.sgo.to/metmuseum/212869.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/621.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4035.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4035_06.652.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212343",
+      "url": "https://code.sgo.to/metmuseum/212343.html",
+      "name": "Band",
+      "description": "Images of \"Band\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/622.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16234.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16234_79.1.137.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212417",
+      "url": "https://code.sgo.to/metmuseum/212417.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from ca. 1750 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/627.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/12229.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16003.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212719",
+      "url": "https://code.sgo.to/metmuseum/212719.html",
+      "name": "Border",
+      "description": "Images of \"Border\" by \"\" from ca. 1600 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/629.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/109257.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212437",
+      "url": "https://code.sgo.to/metmuseum/212437.html",
+      "name": "Fragment of lace",
+      "description": "Images of \"Fragment of lace\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/630.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/GT316c.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212944",
+      "url": "https://code.sgo.to/metmuseum/212944.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/631.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212838",
+      "url": "https://code.sgo.to/metmuseum/212838.html",
+      "name": "Border",
+      "description": "Images of \"Border\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/632.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/GT317a.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/GT317c.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/GT317e.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212878",
+      "url": "https://code.sgo.to/metmuseum/212878.html",
+      "name": "Insertion",
+      "description": "Images of \"Insertion\" by \"\" from ca. 1700 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/633.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16035.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212526",
+      "url": "https://code.sgo.to/metmuseum/212526.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from mid-18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/633.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16123.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212419",
+      "url": "https://code.sgo.to/metmuseum/212419.html",
+      "name": "Cuff",
+      "description": "Images of \"Cuff\" by \"\" from late 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/635.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4434.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4434_79.1.213.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212903",
+      "url": "https://code.sgo.to/metmuseum/212903.html",
+      "name": "Cap crown",
+      "description": "Images of \"Cap crown\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/636.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212952",
+      "url": "https://code.sgo.to/metmuseum/212952.html",
+      "name": "Quille",
+      "description": "Images of \"Quille\" by \"\" from ca. 1775 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/637.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212900",
+      "url": "https://code.sgo.to/metmuseum/212900.html",
+      "name": "Barbe",
+      "description": "Images of \"Barbe\" by \"\" from ca. 1760 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/638.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP18522.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP18522_06.683.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212511",
+      "url": "https://code.sgo.to/metmuseum/212511.html",
+      "name": "Flounce",
+      "description": "Images of \"Flounce\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/640.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/805.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5557.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5557_88.1.35.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212975",
+      "url": "https://code.sgo.to/metmuseum/212975.html",
+      "name": "Handkerchief",
+      "description": "Images of \"Handkerchief\" by \"\" from ca. 1870 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/643.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212845",
+      "url": "https://code.sgo.to/metmuseum/212845.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/645.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16015.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212988",
+      "url": "https://code.sgo.to/metmuseum/212988.html",
+      "name": "Border",
+      "description": "Images of \"Border\" by \"\" from ca. 1700 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/647.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212921",
+      "url": "https://code.sgo.to/metmuseum/212921.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from ca. 1700 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/648.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212951",
+      "url": "https://code.sgo.to/metmuseum/212951.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/649.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4486.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4486_06.690.16.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212432",
+      "url": "https://code.sgo.to/metmuseum/212432.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from late 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/651.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP8382.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212907",
+      "url": "https://code.sgo.to/metmuseum/212907.html",
+      "name": "Cape",
+      "description": "Images of \"Cape\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/652.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/907.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16634.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16634_06.689.2.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212559",
+      "url": "https://code.sgo.to/metmuseum/212559.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/654.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5558.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5558_88.2.9.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212505",
+      "url": "https://code.sgo.to/metmuseum/212505.html",
+      "name": "Cape",
+      "description": "Images of \"Cape\" by \"\" from ca. 1750 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/655.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/811.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/AR730.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/AR731.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212371",
+      "url": "https://code.sgo.to/metmuseum/212371.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/656.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212412",
+      "url": "https://code.sgo.to/metmuseum/212412.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/657.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16119.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212629",
+      "url": "https://code.sgo.to/metmuseum/212629.html",
+      "name": "Flounce",
+      "description": "Images of \"Flounce\" by \"\" from ca. 1700 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/658.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5391.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212974",
+      "url": "https://code.sgo.to/metmuseum/212974.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/660.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212485",
+      "url": "https://code.sgo.to/metmuseum/212485.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/661.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4456.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4456_88.1.5.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212940",
+      "url": "https://code.sgo.to/metmuseum/212940.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/662.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4488.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4488_06.690.5.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212672",
+      "url": "https://code.sgo.to/metmuseum/212672.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/665.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212776",
+      "url": "https://code.sgo.to/metmuseum/212776.html",
+      "name": "Bobbin lace border with scallops",
+      "description": "Images of \"Bobbin lace border with scallops\" by \"\" from 1630–40 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/AR738.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP159871.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/AR739.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212569",
+      "url": "https://code.sgo.to/metmuseum/212569.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP3906.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP3906_88.2.19.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212834",
+      "url": "https://code.sgo.to/metmuseum/212834.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from late 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5038.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5038_06.614.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/213001",
+      "url": "https://code.sgo.to/metmuseum/213001.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5157.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP5157_06.1050.2.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212377",
+      "url": "https://code.sgo.to/metmuseum/212377.html",
+      "name": "Strip",
+      "description": "Images of \"Strip\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16190.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16190_79.1.170.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212568",
+      "url": "https://code.sgo.to/metmuseum/212568.html",
+      "name": "Piece",
+      "description": "Images of \"Piece\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16196.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16196_88.2.18.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212567",
+      "url": "https://code.sgo.to/metmuseum/212567.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16235.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16235_88.2.17.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212564",
+      "url": "https://code.sgo.to/metmuseum/212564.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from late 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16254.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16254_88.2.14.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212507",
+      "url": "https://code.sgo.to/metmuseum/212507.html",
+      "name": "Fragment",
+      "description": "Images of \"Fragment\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/667.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16253.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16253_88.1.31.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212545",
+      "url": "https://code.sgo.to/metmuseum/212545.html",
+      "name": "Collar",
+      "description": "Images of \"Collar\" by \"\" from ca. 1850 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/669.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4198.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP4198_88.1.72.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212649",
+      "url": "https://code.sgo.to/metmuseum/212649.html",
+      "name": "Veil",
+      "description": "Images of \"Veil\" by \"\" from ca. 1850 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/675.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16588.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/DP16588_00.1.14.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212818",
+      "url": "https://code.sgo.to/metmuseum/212818.html",
+      "name": "Cover",
+      "description": "Images of \"Cover\" by \"\" from late 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/683.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212705",
+      "url": "https://code.sgo.to/metmuseum/212705.html",
+      "name": "Border",
+      "description": "Images of \"Border\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/684.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212711",
+      "url": "https://code.sgo.to/metmuseum/212711.html",
+      "name": "Cover",
+      "description": "Images of \"Cover\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/686.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/3944.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212698",
+      "url": "https://code.sgo.to/metmuseum/212698.html",
+      "name": "Cover",
+      "description": "Images of \"Cover\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/688.jpg",
+        "http://images.metmuseum.org/CRDImages/es/original/158991.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212291",
+      "url": "https://code.sgo.to/metmuseum/212291.html",
+      "name": "Baptismal veil",
+      "description": "Images of \"Baptismal veil\" by \"\" from early 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/691.jpg"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://code.sgo.to/metmuseum/212800",
+      "url": "https://code.sgo.to/metmuseum/212800.html",
+      "name": "Cover",
+      "description": "Images of \"Cover\" by \"\" from early 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+      "examples": [
+        "http://images.metmuseum.org/CRDImages/es/original/695.jpg"
+      ]
+    }
+  ]
+}
