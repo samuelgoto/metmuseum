@@ -4,7 +4,7 @@ let data = JSON.parse(src);
 let flatten = (src, mapper) => (src.map(mapper)).reduce((acc, val) => acc.concat(val), []);
 
 let datasets = {
- "@context": "https://code.sgo.to/datasets",
+ "@context": "https://code.sgo.to/datasets/",
  "@type": "DatasetBundle",
  "@id": "https://code.sgo.to/metmuseum",
  "url": "https://code.sgo.to/metmuseum",
