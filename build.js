@@ -61,4 +61,4 @@ for (let artwork of data) {
 // console.log(data[0]);
 
 // console.log(datasets.datasets[0]);
-fs.writeFileSync("metmuseum.jsonld", JSON.stringify(datasets, undefined, 2));
+fs.writeFileSync("artwork.jsonld", JSON.stringify(datasets, undefined, 2));
