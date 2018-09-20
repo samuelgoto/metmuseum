@@ -5,7 +5,7 @@ let flatten = (src, mapper) => (src.map(mapper)).reduce((acc, val) => acc.concat
 
 let datasets = {
  "@context": "https://code.sgo.to/datasets/",
- "@type": "DatasetBundle",
+ "@type": "Dataset",
  "@id": "https://code.sgo.to/metmuseum/artwork",
  "url": "https://code.sgo.to/metmuseum/artwork.jsonld",
  "name": "Images of artwork from the metropolitan museum of art",
@@ -49,7 +49,7 @@ for (let artwork of data) {
   .concat(artwork.reproductions)
   .concat(artwork.partials)
  datasets.datasets.push({
-   "@type": "Dataset",
+   "@type": "Entry",
    "@id": id,
    "url": `${id}.html`,
    "name": name,

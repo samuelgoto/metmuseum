@@ -1,13 +1,13 @@
 {
   "@context": "https://code.sgo.to/datasets/",
-  "@type": "DatasetBundle",
+  "@type": "Dataset",
   "@id": "https://code.sgo.to/metmuseum/artwork",
   "url": "https://code.sgo.to/metmuseum/artwork.jsonld",
   "name": "Images of artwork from the metropolitan museum of art",
   "description": "These images were created with google's BigQuery",
   "datasets": [
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/335370",
       "url": "https://code.sgo.to/metmuseum/335370.html",
       "name": "Twin Stars",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/25813",
       "url": "https://code.sgo.to/metmuseum/25813.html",
       "name": "Sword Guard (Tsuba)",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/22096",
       "url": "https://code.sgo.to/metmuseum/22096.html",
       "name": "War Hat (Jingasa)",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/14579",
       "url": "https://code.sgo.to/metmuseum/14579.html",
       "name": "John Paul Jones",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/14583",
       "url": "https://code.sgo.to/metmuseum/14583.html",
       "name": "John Paul Jones",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/47333",
       "url": "https://code.sgo.to/metmuseum/47333.html",
       "name": "Teapot",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/45433",
       "url": "https://code.sgo.to/metmuseum/45433.html",
       "name": "Teabowl",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/62869",
       "url": "https://code.sgo.to/metmuseum/62869.html",
       "name": "Teabowl",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/45953",
       "url": "https://code.sgo.to/metmuseum/45953.html",
       "name": "Jar",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/79081",
       "url": "https://code.sgo.to/metmuseum/79081.html",
       "name": "Collar",
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/79077",
       "url": "https://code.sgo.to/metmuseum/79077.html",
       "name": "Collar",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/78932",
       "url": "https://code.sgo.to/metmuseum/78932.html",
       "name": "Collar",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/79072",
       "url": "https://code.sgo.to/metmuseum/79072.html",
       "name": "Cap",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/79084",
       "url": "https://code.sgo.to/metmuseum/79084.html",
       "name": "Shawl",
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/471794",
       "url": "https://code.sgo.to/metmuseum/471794.html",
       "name": "Dish",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/341794",
       "url": "https://code.sgo.to/metmuseum/341794.html",
       "name": "Head of a Man",
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/338802",
       "url": "https://code.sgo.to/metmuseum/338802.html",
       "name": "Head and Front Quarters of a Bull",
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/348167",
       "url": "https://code.sgo.to/metmuseum/348167.html",
       "name": "River Scene",
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/335125",
       "url": "https://code.sgo.to/metmuseum/335125.html",
       "name": "Village View",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/335118",
       "url": "https://code.sgo.to/metmuseum/335118.html",
       "name": "Boats and Houses",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/348214",
       "url": "https://code.sgo.to/metmuseum/348214.html",
       "name": "Scene From A Comedy",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/335261",
       "url": "https://code.sgo.to/metmuseum/335261.html",
       "name": "Two Figures and a Dog",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/339907",
       "url": "https://code.sgo.to/metmuseum/339907.html",
       "name": "Bacchanals",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/340535",
       "url": "https://code.sgo.to/metmuseum/340535.html",
       "name": "Venus Leaving the Bath, and Cupid",
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/340177",
       "url": "https://code.sgo.to/metmuseum/340177.html",
       "name": "Tobias and the Angel",
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/335114",
       "url": "https://code.sgo.to/metmuseum/335114.html",
       "name": "Seated Female Nude (recto); Standing Male Nude (verso)",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/188969",
       "url": "https://code.sgo.to/metmuseum/188969.html",
       "name": "Saint Catherine and Saint John with a donor and his wife",
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189149",
       "url": "https://code.sgo.to/metmuseum/189149.html",
       "name": "Comedy and Tragedy",
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212990",
       "url": "https://code.sgo.to/metmuseum/212990.html",
       "name": "Piece",
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212995",
       "url": "https://code.sgo.to/metmuseum/212995.html",
       "name": "Piece",
@@ -348,7 +348,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212994",
       "url": "https://code.sgo.to/metmuseum/212994.html",
       "name": "Piece",
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212991",
       "url": "https://code.sgo.to/metmuseum/212991.html",
       "name": "Piece",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212996",
       "url": "https://code.sgo.to/metmuseum/212996.html",
       "name": "Length of doubled-sided velvet and plush silk",
@@ -380,7 +380,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189156",
       "url": "https://code.sgo.to/metmuseum/189156.html",
       "name": "Cradle",
@@ -390,7 +390,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189048",
       "url": "https://code.sgo.to/metmuseum/189048.html",
       "name": "Cuff link",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189047",
       "url": "https://code.sgo.to/metmuseum/189047.html",
       "name": "Cuff link",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189051",
       "url": "https://code.sgo.to/metmuseum/189051.html",
       "name": "Brooch",
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189052",
       "url": "https://code.sgo.to/metmuseum/189052.html",
       "name": "Earring",
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189053",
       "url": "https://code.sgo.to/metmuseum/189053.html",
       "name": "Earring",
@@ -445,7 +445,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189155",
       "url": "https://code.sgo.to/metmuseum/189155.html",
       "name": "Small chest",
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189109",
       "url": "https://code.sgo.to/metmuseum/189109.html",
       "name": "Salver",
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/189136",
       "url": "https://code.sgo.to/metmuseum/189136.html",
       "name": "Plate",
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/187864",
       "url": "https://code.sgo.to/metmuseum/187864.html",
       "name": "Dish",
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/187879",
       "url": "https://code.sgo.to/metmuseum/187879.html",
       "name": "Deep dish",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/208830",
       "url": "https://code.sgo.to/metmuseum/208830.html",
       "name": "Wall tile",
@@ -507,7 +507,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/187841",
       "url": "https://code.sgo.to/metmuseum/187841.html",
       "name": "Wall tile",
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/187790",
       "url": "https://code.sgo.to/metmuseum/187790.html",
       "name": "Wall tile",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/213011",
       "url": "https://code.sgo.to/metmuseum/213011.html",
       "name": "Flounce (two pieces)",
@@ -542,7 +542,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/213008",
       "url": "https://code.sgo.to/metmuseum/213008.html",
       "name": "Flounce",
@@ -555,7 +555,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/213017",
       "url": "https://code.sgo.to/metmuseum/213017.html",
       "name": "Pointed lace",
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/213006",
       "url": "https://code.sgo.to/metmuseum/213006.html",
       "name": "Scarf",
@@ -578,7 +578,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212748",
       "url": "https://code.sgo.to/metmuseum/212748.html",
       "name": "Fragment",
@@ -588,7 +588,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212761",
       "url": "https://code.sgo.to/metmuseum/212761.html",
       "name": "Fragment",
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212869",
       "url": "https://code.sgo.to/metmuseum/212869.html",
       "name": "Fragment",
@@ -610,7 +610,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212343",
       "url": "https://code.sgo.to/metmuseum/212343.html",
       "name": "Band",
@@ -622,7 +622,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212417",
       "url": "https://code.sgo.to/metmuseum/212417.html",
       "name": "Strip",
@@ -634,7 +634,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212719",
       "url": "https://code.sgo.to/metmuseum/212719.html",
       "name": "Border",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212437",
       "url": "https://code.sgo.to/metmuseum/212437.html",
       "name": "Fragment of lace",
@@ -656,7 +656,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212944",
       "url": "https://code.sgo.to/metmuseum/212944.html",
       "name": "Fragment",
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212838",
       "url": "https://code.sgo.to/metmuseum/212838.html",
       "name": "Border",
@@ -679,7 +679,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212878",
       "url": "https://code.sgo.to/metmuseum/212878.html",
       "name": "Insertion",
@@ -690,7 +690,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212526",
       "url": "https://code.sgo.to/metmuseum/212526.html",
       "name": "Strip",
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212419",
       "url": "https://code.sgo.to/metmuseum/212419.html",
       "name": "Cuff",
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212903",
       "url": "https://code.sgo.to/metmuseum/212903.html",
       "name": "Cap crown",
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212952",
       "url": "https://code.sgo.to/metmuseum/212952.html",
       "name": "Quille",
@@ -733,7 +733,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212900",
       "url": "https://code.sgo.to/metmuseum/212900.html",
       "name": "Barbe",
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212511",
       "url": "https://code.sgo.to/metmuseum/212511.html",
       "name": "Flounce",
@@ -758,7 +758,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212975",
       "url": "https://code.sgo.to/metmuseum/212975.html",
       "name": "Handkerchief",
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212845",
       "url": "https://code.sgo.to/metmuseum/212845.html",
       "name": "Strip",
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212988",
       "url": "https://code.sgo.to/metmuseum/212988.html",
       "name": "Border",
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212921",
       "url": "https://code.sgo.to/metmuseum/212921.html",
       "name": "Piece",
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212951",
       "url": "https://code.sgo.to/metmuseum/212951.html",
       "name": "Fragment",
@@ -811,7 +811,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212432",
       "url": "https://code.sgo.to/metmuseum/212432.html",
       "name": "Fragment",
@@ -822,7 +822,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212907",
       "url": "https://code.sgo.to/metmuseum/212907.html",
       "name": "Cape",
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212559",
       "url": "https://code.sgo.to/metmuseum/212559.html",
       "name": "Fragment",
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212505",
       "url": "https://code.sgo.to/metmuseum/212505.html",
       "name": "Cape",
@@ -860,7 +860,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212371",
       "url": "https://code.sgo.to/metmuseum/212371.html",
       "name": "Strip",
@@ -870,7 +870,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212412",
       "url": "https://code.sgo.to/metmuseum/212412.html",
       "name": "Strip",
@@ -881,7 +881,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212629",
       "url": "https://code.sgo.to/metmuseum/212629.html",
       "name": "Flounce",
@@ -892,7 +892,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212974",
       "url": "https://code.sgo.to/metmuseum/212974.html",
       "name": "Fragment",
@@ -902,7 +902,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212485",
       "url": "https://code.sgo.to/metmuseum/212485.html",
       "name": "Fragment",
@@ -914,7 +914,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212940",
       "url": "https://code.sgo.to/metmuseum/212940.html",
       "name": "Fragment",
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212672",
       "url": "https://code.sgo.to/metmuseum/212672.html",
       "name": "Fragment",
@@ -936,7 +936,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212776",
       "url": "https://code.sgo.to/metmuseum/212776.html",
       "name": "Bobbin lace border with scallops",
@@ -949,7 +949,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212569",
       "url": "https://code.sgo.to/metmuseum/212569.html",
       "name": "Strip",
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212834",
       "url": "https://code.sgo.to/metmuseum/212834.html",
       "name": "Fragment",
@@ -973,7 +973,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/213001",
       "url": "https://code.sgo.to/metmuseum/213001.html",
       "name": "Fragment",
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212377",
       "url": "https://code.sgo.to/metmuseum/212377.html",
       "name": "Strip",
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212568",
       "url": "https://code.sgo.to/metmuseum/212568.html",
       "name": "Piece",
@@ -1009,7 +1009,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212567",
       "url": "https://code.sgo.to/metmuseum/212567.html",
       "name": "Fragment",
@@ -1021,7 +1021,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212564",
       "url": "https://code.sgo.to/metmuseum/212564.html",
       "name": "Fragment",
@@ -1033,7 +1033,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212507",
       "url": "https://code.sgo.to/metmuseum/212507.html",
       "name": "Fragment",
@@ -1045,7 +1045,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212545",
       "url": "https://code.sgo.to/metmuseum/212545.html",
       "name": "Collar",
@@ -1057,7 +1057,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212649",
       "url": "https://code.sgo.to/metmuseum/212649.html",
       "name": "Veil",
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212818",
       "url": "https://code.sgo.to/metmuseum/212818.html",
       "name": "Cover",
@@ -1079,7 +1079,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212705",
       "url": "https://code.sgo.to/metmuseum/212705.html",
       "name": "Border",
@@ -1089,7 +1089,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212711",
       "url": "https://code.sgo.to/metmuseum/212711.html",
       "name": "Cover",
@@ -1100,7 +1100,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212698",
       "url": "https://code.sgo.to/metmuseum/212698.html",
       "name": "Cover",
@@ -1111,7 +1111,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212291",
       "url": "https://code.sgo.to/metmuseum/212291.html",
       "name": "Baptismal veil",
@@ -1121,7 +1121,7 @@
       ]
     },
     {
-      "@type": "Dataset",
+      "@type": "Entry",
       "@id": "https://code.sgo.to/metmuseum/212800",
       "url": "https://code.sgo.to/metmuseum/212800.html",
       "name": "Cover",
