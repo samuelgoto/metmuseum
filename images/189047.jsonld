@@ -1,0 +1,11 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/189047.jsonld",
+  "url": "189047.jsonld",
+  "name": "Cuff link",
+  "description": "Images of \"Cuff link\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/59147.jpg"
+  ]
+}

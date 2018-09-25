@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/213008.jsonld",
+  "url": "213008.jsonld",
+  "name": "Flounce",
+  "description": "Images of \"Flounce\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/608.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/DP16506.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/DP16506_06.1172.6.jpg",
+    "https://s-media-cache-ak0.pinimg.com/736x/d2/d3/b3/d2d3b37b173c5f04b5b7d859bc1cbe3e.jpg"
+  ]
+}

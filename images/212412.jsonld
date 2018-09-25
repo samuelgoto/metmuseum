@@ -1,0 +1,11 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212412.jsonld",
+  "url": "212412.jsonld",
+  "name": "Strip",
+  "description": "Images of \"Strip\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/657.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/DP16119.jpg"
+  ]
+}

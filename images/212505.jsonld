@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212505.jsonld",
+  "url": "212505.jsonld",
+  "name": "Cape",
+  "description": "Images of \"Cape\" by \"\" from ca. 1750 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/655.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/811.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/AR730.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/AR731.jpg"
+  ]
+}

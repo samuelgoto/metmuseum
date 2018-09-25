@@ -1,0 +1,11 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212711.jsonld",
+  "url": "212711.jsonld",
+  "name": "Cover",
+  "description": "Images of \"Cover\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/686.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/3944.jpg"
+  ]
+}

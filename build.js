@@ -10,7 +10,7 @@ let datasets = {
  "url": "https://code.sgo.to/metmuseum/artwork.jsonld",
  "name": "Images of artwork from the metropolitan museum of art",
  "description": "These images were created with google's BigQuery",
- "datasets": []
+ "classes": []
 };
 
 for (let i = 0; i < data.length; i++) {
@@ -40,25 +40,33 @@ for (let artwork of data) {
  let department = encode(artwork.department); 
  // console.log(`/${department}/${artist}${name}.html`);
  // let id = `/${department}/${artist}${name}.html`;
- let id = `https://code.sgo.to/metmuseum/${artwork.object_id}`;
+ let id = `https://code.sgo.to/metmuseum/images/${artwork.object_id}.jsonld`;
 
  let description = `Images of "${name}" by "${artist}" from ${artwork.object_date} from the ${department} of the metmuseum.org.`;
 
  // artwork["@type"] = "DataSet";
  let images = artwork.original_image_url
   .concat(artwork.reproductions)
-  .concat(artwork.partials)
- datasets.datasets.push({
-   "@type": "Entry",
+  .concat(artwork.partials);
+
+ datasets.classes.push(`images/${artwork.object_id}.jsonld`);
+
+ let clazz = {
+   "@type": "Class",
    "@id": id,
-   "url": `${id}.html`,
+   "url": `${artwork.object_id}.jsonld`,
    "name": name,
    "description": description,
-   "examples": images
-  });
+   "image": images
+ };
+
+ // datasets.classes.push();
+
+ fs.writeFileSync(`images/${artwork.object_id}.jsonld`, JSON.stringify(clazz, undefined, 2));
+
 }
 
 // console.log(data[0]);
 
 // console.log(datasets.datasets[0]);
-fs.writeFileSync("artwork.jsonld", JSON.stringify(datasets, undefined, 2));
+fs.writeFileSync("index.jsonld", JSON.stringify(datasets, undefined, 2));

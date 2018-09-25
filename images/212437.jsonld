@@ -1,0 +1,11 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212437.jsonld",
+  "url": "212437.jsonld",
+  "name": "Fragment of lace",
+  "description": "Images of \"Fragment of lace\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/630.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/GT316c.jpg"
+  ]
+}

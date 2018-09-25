@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212838.jsonld",
+  "url": "212838.jsonld",
+  "name": "Border",
+  "description": "Images of \"Border\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "image": [
+    "http://images.metmuseum.org/CRDImages/es/original/632.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/GT317a.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/GT317c.jpg",
+    "http://images.metmuseum.org/CRDImages/es/original/GT317e.jpg"
+  ]
+}
