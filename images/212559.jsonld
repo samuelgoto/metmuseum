@@ -4,7 +4,7 @@
   "url": "212559.jsonld",
   "name": "Fragment",
   "description": "Images of \"Fragment\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/es/original/654.jpg",
     "http://images.metmuseum.org/CRDImages/es/original/DP5558.jpg",
     "http://images.metmuseum.org/CRDImages/es/original/DP5558_88.2.9.jpg"

@@ -4,7 +4,7 @@
   "url": "212990.jsonld",
   "name": "Piece",
   "description": "Images of \"Piece\" by \"\" from 1720–40 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/es/original/429.jpg"
   ]
 }

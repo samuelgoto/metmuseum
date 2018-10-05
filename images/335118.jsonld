@@ -4,7 +4,7 @@
   "url": "335118.jsonld",
   "name": "Boats and Houses",
   "description": "Images of \"Boats and Houses\" by \"Jan_Brueghel_the_Elder%7CJan_Brueghel_the_Elder/\" from 16th century from the Drawings_and_Prints of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/dp/original/577.jpg",
     "http://images.metmuseum.org/CRDImages/dp/original/DP801177.jpg"
   ]

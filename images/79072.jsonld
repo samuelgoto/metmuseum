@@ -4,7 +4,7 @@
   "url": "79072.jsonld",
   "name": "Cap",
   "description": "Images of \"Cap\" by \"\" from first quarter 18th century from the Costume_Institute of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/ci/original/726.jpg",
     "http://images.metmuseum.org/CRDImages/ci/original/06.644_B.jpg",
     "http://images.metmuseum.org/CRDImages/ci/original/06.644_S.jpg"

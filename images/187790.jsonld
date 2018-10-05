@@ -4,7 +4,7 @@
   "url": "187790.jsonld",
   "name": "Wall tile",
   "description": "Images of \"Wall tile\" by \"\" from 17th–18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/es/original/528.jpg",
     "http://images.metmuseum.org/CRDImages/es/original/7996.jpg"
   ]

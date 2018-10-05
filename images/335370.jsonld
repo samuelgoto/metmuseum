@@ -4,7 +4,7 @@
   "url": "335370.jsonld",
   "name": "Twin Stars",
   "description": "Images of \"Twin Stars\" by \"Luis_Falero/\" from 1851–96 from the Drawings_and_Prints of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/dp/original/58.jpg",
     "http://images.metmuseum.org/CRDImages/dp/original/DN58.jpg",
     "http://images.metmuseum.org/CRDImages/dp/original/DP800314.jpg",

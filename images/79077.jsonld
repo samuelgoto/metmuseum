@@ -4,7 +4,7 @@
   "url": "79077.jsonld",
   "name": "Collar",
   "description": "Images of \"Collar\" by \"\" from second quarter 19th century from the Costume_Institute of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/ci/original/677.jpg",
     "http://images.metmuseum.org/CRDImages/ci/original/06.689.15.jpg"
   ]

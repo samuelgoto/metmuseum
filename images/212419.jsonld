@@ -4,7 +4,7 @@
   "url": "212419.jsonld",
   "name": "Cuff",
   "description": "Images of \"Cuff\" by \"\" from late 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/es/original/635.jpg",
     "http://images.metmuseum.org/CRDImages/es/original/DP4434.jpg",
     "http://images.metmuseum.org/CRDImages/es/original/DP4434_79.1.213.jpg"

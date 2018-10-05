@@ -4,7 +4,7 @@
   "url": "348167.jsonld",
   "name": "River Scene",
   "description": "Images of \"River Scene\" by \"Abraham_Rutgers/\" from 1645–99 from the Drawings_and_Prints of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/dp/original/575.jpg",
     "http://images.metmuseum.org/CRDImages/dp/original/DP800607.jpg"
   ]

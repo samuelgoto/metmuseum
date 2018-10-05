@@ -4,7 +4,7 @@
   "url": "45433.jsonld",
   "name": "Teabowl",
   "description": "Images of \"Teabowl\" by \"Hogen_Doshun/\" from null from the Asian_Art of the metmuseum.org.",
-  "image": [
+  "images": [
     "http://images.metmuseum.org/CRDImages/as/original/859.jpg"
   ]
 }
