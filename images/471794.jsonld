@@ -5,6 +5,9 @@
   "name": "Dish",
   "description": "Images of \"Dish\" by \"\" from 1430–1460 from the The_Cloisters of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/cl/original/CL8.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/cl/original/CL8.jpg"
+    }
   ]
 }

@@ -5,9 +5,21 @@
   "name": "Bobbin lace border with scallops",
   "description": "Images of \"Bobbin lace border with scallops\" by \"\" from 1630–40 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/AR738.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP159871.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/AR739.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/666.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/AR738.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP159871.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/AR739.jpg"
+    }
   ]
 }

@@ -5,7 +5,13 @@
   "name": "Length of doubled-sided velvet and plush silk",
   "description": "Images of \"Length of doubled-sided velvet and plush silk\" by \"\" from 18th century (?) from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/434.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/60419.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/434.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/60419.jpg"
+    }
   ]
 }

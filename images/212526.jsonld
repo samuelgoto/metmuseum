@@ -5,7 +5,13 @@
   "name": "Strip",
   "description": "Images of \"Strip\" by \"\" from mid-18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/633.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP16123.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/633.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP16123.jpg"
+    }
   ]
 }

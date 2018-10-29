@@ -5,8 +5,17 @@
   "name": "Collar",
   "description": "Images of \"Collar\" by \"\" from ca. 1850 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/669.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP4198.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP4198_88.1.72.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/669.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP4198.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP4198_88.1.72.jpg"
+    }
   ]
 }

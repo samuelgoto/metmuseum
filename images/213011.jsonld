@@ -5,9 +5,21 @@
   "name": "Flounce (two pieces)",
   "description": "Images of \"Flounce (two pieces)\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/606.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/10048.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/70678.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/70679.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/606.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/10048.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/70678.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/70679.jpg"
+    }
   ]
 }

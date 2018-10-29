@@ -5,6 +5,9 @@
   "name": "Piece",
   "description": "Images of \"Piece\" by \"\" from 1720–40 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/429.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/429.jpg"
+    }
   ]
 }

@@ -5,6 +5,9 @@
   "name": "Teabowl",
   "description": "Images of \"Teabowl\" by \"Yosobei_II/\" from ca. 1830 from the Asian_Art of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/as/original/862.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/as/original/862.jpg"
+    }
   ]
 }

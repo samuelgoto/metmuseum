@@ -5,8 +5,17 @@
   "name": "Barbe",
   "description": "Images of \"Barbe\" by \"\" from ca. 1760 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/638.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP18522.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP18522_06.683.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/638.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP18522.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP18522_06.683.jpg"
+    }
   ]
 }

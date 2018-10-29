@@ -57,7 +57,7 @@ for (let artwork of data) {
    "url": `${artwork.object_id}.jsonld`,
    "name": name,
    "description": description,
-   "images": images
+   "images": images.map(url => { return {"@type": "Image", "url": url} })
  };
 
  // datasets.classes.push();

@@ -5,6 +5,9 @@
   "name": "Teabowl",
   "description": "Images of \"Teabowl\" by \"Hogen_Doshun/\" from null from the Asian_Art of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/as/original/859.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/as/original/859.jpg"
+    }
   ]
 }

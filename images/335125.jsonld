@@ -5,8 +5,17 @@
   "name": "Village View",
   "description": "Images of \"Village View\" by \"The_Master_of_the_Small_Landscapes%7CPieter_Bruegel_the_Elder%7CCornelis_Cort%7CPieter_Brueghel_the_Younger%7CJoos_van_Liere/\" from 1555–60 from the Drawings_and_Prints of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/dp/original/576.jpg",
-    "http://images.metmuseum.org/CRDImages/dp/original/DR421.jpg",
-    "http://images.metmuseum.org/CRDImages/dp/original/DP801442.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/576.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/DR421.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/DP801442.jpg"
+    }
   ]
 }

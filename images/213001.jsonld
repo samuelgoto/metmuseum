@@ -5,8 +5,17 @@
   "name": "Fragment",
   "description": "Images of \"Fragment\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/666.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP5157.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP5157_06.1050.2.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/666.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP5157.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP5157_06.1050.2.jpg"
+    }
   ]
 }

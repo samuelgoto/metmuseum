@@ -5,7 +5,13 @@
   "name": "Scene From A Comedy",
   "description": "Images of \"Scene From A Comedy\" by \"Cornelis_Troost%7CJacob_Buys%7CCornelis_Troost/\" from 1740–1801 from the Drawings_and_Prints of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/dp/original/578.jpg",
-    "http://images.metmuseum.org/CRDImages/dp/original/DP800693.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/578.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/DP800693.jpg"
+    }
   ]
 }

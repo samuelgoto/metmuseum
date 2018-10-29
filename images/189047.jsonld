@@ -5,7 +5,13 @@
   "name": "Cuff link",
   "description": "Images of \"Cuff link\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/493.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/59147.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/493.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/59147.jpg"
+    }
   ]
 }

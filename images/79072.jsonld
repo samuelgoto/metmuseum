@@ -5,8 +5,17 @@
   "name": "Cap",
   "description": "Images of \"Cap\" by \"\" from first quarter 18th century from the Costume_Institute of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/ci/original/726.jpg",
-    "http://images.metmuseum.org/CRDImages/ci/original/06.644_B.jpg",
-    "http://images.metmuseum.org/CRDImages/ci/original/06.644_S.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/726.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/06.644_B.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/06.644_S.jpg"
+    }
   ]
 }

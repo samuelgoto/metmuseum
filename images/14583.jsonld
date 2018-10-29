@@ -5,8 +5,17 @@
   "name": "John Paul Jones",
   "description": "Images of \"John Paul Jones\" by \"Victor_David_Brenner/\" from 1906 from the American_Paintings_and_Sculpture of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/ap/original/791.jpg",
-    "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-001.jpg",
-    "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-002.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ap/original/791.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-001.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ap/original/AW_07_38_2-002.jpg"
+    }
   ]
 }

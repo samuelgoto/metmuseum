@@ -5,6 +5,9 @@
   "name": "War Hat (Jingasa)",
   "description": "Images of \"War Hat (Jingasa)\" by \"\" from probably 18th century from the Arms_and_Armor of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/aa/original/866.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/aa/original/866.jpg"
+    }
   ]
 }

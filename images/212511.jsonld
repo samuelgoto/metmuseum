@@ -5,9 +5,21 @@
   "name": "Flounce",
   "description": "Images of \"Flounce\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/640.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/805.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP5557.jpg",
-    "http://images.metmuseum.org/CRDImages/es/original/DP5557_88.1.35.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/640.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/805.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP5557.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP5557_88.1.35.jpg"
+    }
   ]
 }

@@ -5,6 +5,9 @@
   "name": "Collar",
   "description": "Images of \"Collar\" by \"\" from ca. 1825 from the Costume_Institute of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/ci/original/623.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/623.jpg"
+    }
   ]
 }

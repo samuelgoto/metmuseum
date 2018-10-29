@@ -5,6 +5,9 @@
   "name": "Cradle",
   "description": "Images of \"Cradle\" by \"\" from ca. 1650–80 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/es/original/452.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/452.jpg"
+    }
   ]
 }

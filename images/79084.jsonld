@@ -5,8 +5,17 @@
   "name": "Shawl",
   "description": "Images of \"Shawl\" by \"\" from ca. 1870 from the Costume_Institute of the metmuseum.org.",
   "images": [
-    "http://images.metmuseum.org/CRDImages/ci/original/913.jpg",
-    "http://images.metmuseum.org/CRDImages/ci/original/06.692.7.jpg",
-    "http://images.metmuseum.org/CRDImages/ci/original/06.692.7_d.jpg"
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/913.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/06.692.7.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/ci/original/06.692.7_d.jpg"
+    }
   ]
 }
