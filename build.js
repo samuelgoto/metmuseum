@@ -49,7 +49,7 @@ for (let artwork of data) {
   .concat(artwork.reproductions)
   .concat(artwork.partials);
 
- datasets.classes.push(`images/${artwork.object_id}.jsonld`);
+ datasets.classes.push(`images/${artwork.object_id}/index.jsonld`);
 
  let clazz = {
    "@type": "Class",
@@ -62,7 +62,7 @@ for (let artwork of data) {
 
  // datasets.classes.push();
 
- fs.writeFileSync(`images/${artwork.object_id}.jsonld`, JSON.stringify(clazz, undefined, 2));
+ fs.writeFileSync(`images/${artwork.object_id}/index.jsonld`, JSON.stringify(clazz, undefined, 2));
 
 }
 

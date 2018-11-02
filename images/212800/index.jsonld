@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212800.jsonld",
+  "url": "212800.jsonld",
+  "name": "Cover",
+  "description": "Images of \"Cover\" by \"\" from early 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/695.jpg"
+    }
+  ]
+}

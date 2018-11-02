@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/208830.jsonld",
+  "url": "208830.jsonld",
+  "name": "Wall tile",
+  "description": "Images of \"Wall tile\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/528.jpg"
+    }
+  ]
+}

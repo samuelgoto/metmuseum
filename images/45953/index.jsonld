@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/45953.jsonld",
+  "url": "45953.jsonld",
+  "name": "Jar",
+  "description": "Images of \"Jar\" by \"\" from 18th century from the Asian_Art of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/as/original/865.jpg"
+    }
+  ]
+}

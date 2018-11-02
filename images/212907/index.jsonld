@@ -1,0 +1,25 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212907.jsonld",
+  "url": "212907.jsonld",
+  "name": "Cape",
+  "description": "Images of \"Cape\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/652.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/907.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP16634.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/DP16634_06.689.2.jpg"
+    }
+  ]
+}

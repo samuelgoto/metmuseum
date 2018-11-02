@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/187864.jsonld",
+  "url": "187864.jsonld",
+  "name": "Dish",
+  "description": "Images of \"Dish\" by \"\" from 16th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/523.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/es/original/27727.jpg"
+    }
+  ]
+}

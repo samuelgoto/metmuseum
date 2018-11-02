@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/340177.jsonld",
+  "url": "340177.jsonld",
+  "name": "Tobias and the Angel",
+  "description": "Images of \"Tobias and the Angel\" by \"Anonymous%2C_Italian%2C_Roman-Bolognese%2C_17th_century/\" from 17th century from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/925.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http://images.metmuseum.org/CRDImages/dp/original/DP802542.jpg"
+    }
+  ]
+}
