@@ -7,7 +7,7 @@
   "images": [
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/aa/original/866.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+aa+original+866.jpg"
     }
   ]
 }

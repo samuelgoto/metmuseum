@@ -7,19 +7,19 @@
   "images": [
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/666.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+666.jpg"
     },
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/AR738.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+AR738.jpg"
     },
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/DP159871.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP159871.jpg"
     },
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/AR739.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+AR739.jpg"
     }
   ]
 }

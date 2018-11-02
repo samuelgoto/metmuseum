@@ -7,11 +7,11 @@
   "images": [
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/657.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+657.jpg"
     },
     {
       "@type": "Image",
-      "url": "http://images.metmuseum.org/CRDImages/es/original/DP16119.jpg"
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP16119.jpg"
     }
   ]
 }
