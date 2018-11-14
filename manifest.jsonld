@@ -5,6 +5,7 @@
   "url": "https://code.sgo.to/metmuseum/manifest.jsonld",
   "name": "Images of artwork from the metropolitan museum of art",
   "description": "These images were created with google's BigQuery",
+  "download": "https://github.com/samuelgoto/metmuseum/releases/download/v0.0.1/metmuseum.tar.gz",
   "classes": [
     "images/335370/index.jsonld",
     "images/25813/index.jsonld",
