@@ -1,0 +1,21 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212377.jsonld",
+  "url": "212377.jsonld",
+  "name": "Strip",
+  "description": "Images of \"Strip\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+666.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP16190.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP16190+79.1.170.jpg"
+    }
+  ]
+}

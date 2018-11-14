@@ -1,0 +1,25 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/25813.jsonld",
+  "url": "25813.jsonld",
+  "name": "Sword Guard (Tsuba)",
+  "description": "Images of \"Sword Guard (Tsuba)\" by \"\" from 18th century–early 19th century from the Arms_and_Armor of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+aa+original+379.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+aa+original+06.300+001AA2016.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+aa+original+06.300+002AA2016.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+736x+a6+a1+79+a6a1792d704df6db3262f3d2beb41592.jpg"
+    }
+  ]
+}

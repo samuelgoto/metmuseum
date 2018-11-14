@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212952.jsonld",
+  "url": "212952.jsonld",
+  "name": "Quille",
+  "description": "Images of \"Quille\" by \"\" from ca. 1775 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+637.jpg"
+    }
+  ]
+}

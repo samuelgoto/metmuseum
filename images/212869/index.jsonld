@@ -1,0 +1,21 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212869.jsonld",
+  "url": "212869.jsonld",
+  "name": "Fragment",
+  "description": "Images of \"Fragment\" by \"\" from early 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+621.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP4035.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP4035+06.652.jpg"
+    }
+  ]
+}

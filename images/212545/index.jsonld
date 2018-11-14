@@ -1,0 +1,21 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212545.jsonld",
+  "url": "212545.jsonld",
+  "name": "Collar",
+  "description": "Images of \"Collar\" by \"\" from ca. 1850 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+669.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP4198.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP4198+88.1.72.jpg"
+    }
+  ]
+}

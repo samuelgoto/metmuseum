@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/45433.jsonld",
+  "url": "45433.jsonld",
+  "name": "Teabowl",
+  "description": "Images of \"Teabowl\" by \"Hogen_Doshun/\" from null from the Asian_Art of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+as+original+859.jpg"
+    }
+  ]
+}

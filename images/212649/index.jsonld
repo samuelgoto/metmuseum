@@ -1,0 +1,21 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212649.jsonld",
+  "url": "212649.jsonld",
+  "name": "Veil",
+  "description": "Images of \"Veil\" by \"\" from ca. 1850 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+675.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP16588.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+DP16588+00.1.14.jpg"
+    }
+  ]
+}

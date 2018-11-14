@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212994.jsonld",
+  "url": "212994.jsonld",
+  "name": "Piece",
+  "description": "Images of \"Piece\" by \"\" from 17th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+432.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+135603.jpg"
+    }
+  ]
+}

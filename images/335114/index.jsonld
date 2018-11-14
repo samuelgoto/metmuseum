@@ -1,0 +1,41 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/335114.jsonld",
+  "url": "335114.jsonld",
+  "name": "Seated Female Nude (recto); Standing Male Nude (verso)",
+  "description": "Images of \"Seated Female Nude (recto); Standing Male Nude (verso)\" by \"Pierre_Paul_Prud'hon/\" from probably between 1810–20 from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+PR2.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DT10963.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DT10964.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+originals+fe+47+be+fe47be30383ab93f69f207b9fe23fe29.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+originals+4a+69+12+4a69125b1313d9372e83f966596bb3d5.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DT10963.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+3.bp.blogspot.com+UO48dxFg5F0+Vbg1C0LMxuI+AAAAAAABOE4+mQUK+lOgiuw+s1600+Prud+2527hon+Pierre+Paul+Seated+female+nude+c1810+20+Met.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+originals+31+fa+83+31fa83d27f144c01ac234ed8ed6ea3f4.jpg"
+    }
+  ]
+}
