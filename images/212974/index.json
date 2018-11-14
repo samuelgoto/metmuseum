@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212974.json",
+  "url": "212974.json",
+  "name": "Fragment",
+  "description": "Images of \"Fragment\" by \"\" from 18th century from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+660.jpg"
+    }
+  ]
+}

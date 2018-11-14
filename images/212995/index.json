@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212995.json",
+  "url": "212995.json",
+  "name": "Piece",
+  "description": "Images of \"Piece\" by \"\" from 1705–15 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+430.jpg"
+    }
+  ]
+}

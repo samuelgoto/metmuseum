@@ -1,0 +1,41 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/335370.json",
+  "url": "335370.json",
+  "name": "Twin Stars",
+  "description": "Images of \"Twin Stars\" by \"Luis_Falero/\" from 1851–96 from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+58.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DN58.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP800314.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP800314.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+i.i.ua+photo+images+pic+1+6+4550661+333a634f.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+3.bp.blogspot.com+6D+2k11fJUA+Um0AvXykVEI+AAAAAAABIQ8+waGA+ikO+iY+s1600+4550661+333a634f.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+originals+c1+50+e6+c150e6eb0c8c70a4f24a0d457fa21160.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "https+s+media+cache+ak0.pinimg.com+736x+c1+50+e6+c150e6eb0c8c70a4f24a0d457fa21160.jpg"
+    }
+  ]
+}

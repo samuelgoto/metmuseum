@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/78932.json",
+  "url": "78932.json",
+  "name": "Collar",
+  "description": "Images of \"Collar\" by \"\" from first quarter 19th century from the Costume_Institute of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+ci+original+678.jpg"
+    }
+  ]
+}

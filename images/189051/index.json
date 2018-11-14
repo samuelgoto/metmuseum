@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/189051.json",
+  "url": "189051.json",
+  "name": "Brooch",
+  "description": "Images of \"Brooch\" by \"J._Tostrup/\" from ca. 1873 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+493.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+59150.jpg"
+    }
+  ]
+}

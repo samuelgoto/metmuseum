@@ -1,0 +1,21 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/338802.json",
+  "url": "338802.json",
+  "name": "Head and Front Quarters of a Bull",
+  "description": "Images of \"Head and Front Quarters of a Bull\" by \"Battista_Franco/\" from 1510–61 from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+571.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP809773.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+06.1042.12.jpg"
+    }
+  ]
+}

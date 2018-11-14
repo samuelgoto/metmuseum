@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/188969.json",
+  "url": "188969.json",
+  "name": "Saint Catherine and Saint John with a donor and his wife",
+  "description": "Images of \"Saint Catherine and Saint John with a donor and his wife\" by \"\" from ca. 1530 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+387.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+217036.jpg"
+    }
+  ]
+}

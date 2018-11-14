@@ -1,0 +1,25 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/339907.json",
+  "url": "339907.json",
+  "name": "Bacchanals",
+  "description": "Images of \"Bacchanals\" by \"Anonymous%2C_French%2C_18th_century/\" from 18th Century from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+585.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+06.1042.13.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP812522.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP812523.jpg"
+    }
+  ]
+}

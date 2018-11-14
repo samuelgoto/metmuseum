@@ -1,0 +1,13 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/212988.json",
+  "url": "212988.json",
+  "name": "Border",
+  "description": "Images of \"Border\" by \"\" from ca. 1700 from the European_Sculpture_and_Decorative_Arts of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+es+original+647.jpg"
+    }
+  ]
+}

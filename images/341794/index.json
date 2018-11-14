@@ -1,0 +1,17 @@
+{
+  "@type": "Class",
+  "@id": "https://code.sgo.to/metmuseum/images/341794.json",
+  "url": "341794.json",
+  "name": "Head of a Man",
+  "description": "Images of \"Head of a Man\" by \"Anonymous%2C_Italian%2C_Roman%2C_16th_century/\" from 16th century from the Drawings_and_Prints of the metmuseum.org.",
+  "images": [
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+570.jpg"
+    },
+    {
+      "@type": "Image",
+      "url": "http+images.metmuseum.org+CRDImages+dp+original+DP820651.jpg"
+    }
+  ]
+}

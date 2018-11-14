@@ -6,8 +6,8 @@ let flatten = (src, mapper) => (src.map(mapper)).reduce((acc, val) => acc.concat
 let datasets = {
  "@context": "https://code.sgo.to/datasets/",
  "@type": "Dataset",
- "@id": "https://code.sgo.to/metmuseum/artwork",
- "url": "https://code.sgo.to/metmuseum/artwork.jsonld",
+ "@id": "https://code.sgo.to/metmuseum/",
+ "url": "https://code.sgo.to/metmuseum/manifest.json",
  "name": "Images of artwork from the metropolitan museum of art",
  "description": "These images were created with google's BigQuery",
  "classes": []
@@ -40,7 +40,7 @@ for (let artwork of data) {
  let department = encode(artwork.department); 
  // console.log(`/${department}/${artist}${name}.html`);
  // let id = `/${department}/${artist}${name}.html`;
- let id = `https://code.sgo.to/metmuseum/images/${artwork.object_id}.jsonld`;
+ let id = `https://code.sgo.to/metmuseum/images/${artwork.object_id}.json`;
 
  let description = `Images of "${name}" by "${artist}" from ${artwork.object_date} from the ${department} of the metmuseum.org.`;
 
@@ -49,12 +49,12 @@ for (let artwork of data) {
   .concat(artwork.reproductions)
   .concat(artwork.partials);
 
- datasets.classes.push(`images/${artwork.object_id}/index.jsonld`);
+ datasets.classes.push(`images/${artwork.object_id}/index.json`);
 
  let clazz = {
    "@type": "Class",
    "@id": id,
-   "url": `${artwork.object_id}.jsonld`,
+   "url": `${artwork.object_id}.json`,
    "name": name,
    "description": description,
    "images": images.map(url => { return {
@@ -66,11 +66,11 @@ for (let artwork of data) {
 
  // datasets.classes.push();
 
- fs.writeFileSync(`images/${artwork.object_id}/index.jsonld`, JSON.stringify(clazz, undefined, 2));
+ fs.writeFileSync(`images/${artwork.object_id}/index.json`, JSON.stringify(clazz, undefined, 2));
 
 }
 
 // console.log(data[0]);
 
 // console.log(datasets.datasets[0]);
-fs.writeFileSync("index.jsonld", JSON.stringify(datasets, undefined, 2));
+fs.writeFileSync("manifest.json", JSON.stringify(datasets, undefined, 2));
